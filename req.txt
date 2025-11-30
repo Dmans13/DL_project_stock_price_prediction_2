@@ -1,0 +1,6 @@
+yfinance
+tiingo
+pandas 
+matplotlib
+seaborn
+ta
